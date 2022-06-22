@@ -8,12 +8,12 @@ class Carros extends Seeder
 {
     public function run()
     {
-        $modelo = ['Vesta', 'Granta', 'Largus', 'Xray', 'Niva Travel'];
-        $placa = ['FWD3272','EKE2076','CTL7144','ERP2538','DRE0455'];
+        $modelo = ['Sedan', 'Gol', 'Fusca', 'Polo', 'Saveiro'];
+        $placa = ['FRE3272','UKE2076','TUL7144','ERP6528','AYE0455'];
         for($x = 0; $x < 5; $x++){
             $data = [
                 'modelo' => $modelo[$x],
-                'Marca'    => 'Lada',
+                'Marca'    => 'Volkswagen',
                 'placa'=> $placa[$x]
                 
             ];

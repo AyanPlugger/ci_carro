@@ -1,9 +1,5 @@
 
 
-body .fundoCor{
-    background-color: gray;
-}
-
-carousel-item{
-    max-width: 200px;
+.carousel-item{
+    transition: 1s;
 }

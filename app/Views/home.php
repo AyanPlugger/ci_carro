@@ -1,17 +1,19 @@
 
         <!-- inicio do corpo da pagina-->
+        <link href="<?=base_url()?>/style.css" rel="stylesheet" />
+
         <div class="row">
             <div class="col">
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img src="https://i.kinja-img.com/gawker-media/image/upload/s--LJImACQb--/c_scale,f_auto,fl_progressive,q_80,w_800/uekooovzksjt1dfg6i24.jpg" class="d-block w-100" alt="...">
+                    <img src="https://img1.icarros.com/dbimg/imgadicionalanuncio/2/218689832_1" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item ">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lada_2107_aka_Lada_Riva_October_1995_1452cc.jpg/1200px-Lada_2107_aka_Lada_Riva_October_1995_1452cc.jpg" class="d-block w-100" alt="...">
+                    <img src="https://motortudo.com/wp-content/uploads/2021/05/VW-Gol-Quadrado-1.0-1994-carros-populares-antigos-4-1-1024x786.jpg" class="d-block w-100" alt="...">
                     </div>
-                    <div class="carousel-item ">
-                    <img src="https://cdn.e-konomista.pt/uploads/2020/08/fiat-multipla.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-item">
+                    <img src="http://images3.memedroid.com/images/UPLOADED878/6025e89884eff.jpeg" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -23,16 +25,6 @@
                     <span class="visually-hidden">Next</span>
                 </button>
                 </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <h3>Texto 1</h3>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IWXyyaj9BFD20ocBnktNCWgCp1hiEZgzog&usqp=CAU" alt="">
-            </div>
-            <div class="col">
-                <h3>Texto 1</h3>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IWXyyaj9BFD20ocBnktNCWgCp1hiEZgzog&usqp=CAU" alt="">
             </div>
         </div>
         <!-- fim do corpo da pagina-->
